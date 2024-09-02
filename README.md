@@ -1,4 +1,4 @@
-# Gemini GPT Chatbot Clone [Deployed link](https://gemini-gpt-cac11.web.app/)
+# Gemini GPT Chatbot Clone [Deployed link](https://gemini-gpt-cac11.web.app/).
 
 This is a React-based chatbot application that leverages the power of Google's Gemini AI model to provide interactive and informative responses to user queries. The app is deployed on Firebase Hosting and can be accessed at: [Deployed link](https://gemini-gpt-cac11.web.app/)
 
