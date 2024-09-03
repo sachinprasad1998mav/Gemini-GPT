@@ -16,3 +16,4 @@ This is a React-based chatbot application that leverages the power of Google's G
 - Google's Gemini AI: Advanced large language model for natural language processing and generation.
 - Firebase: Backend-as-a-service platform for hosting, authentication, and other features.
 - Tailwind CSS: Utility-first CSS framework for rapid UI development.
+# Gemini-clone
